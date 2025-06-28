@@ -100,7 +100,7 @@ Here are some of the technologies and tools I frequently work with:
   
 ### ⚡ Fun Fact
 
-When I'm not immersed in code, you can find me **binge-watching movies** or **intensely following sports**, especially those with incredible athletes or super-fast heroes like Barry Allen who need to eat constantly. I also enjoy **talking to intelligence**, much like Cyborg connecting with the world's data in *Zack Snyder's Justice League*. As Silas Stone once said, "I know the requirements, I wrote them".
+When I'm not immersed in code, you can find me **binge-watching movies** or **intensely following sports**, especially those with incredible athletes or super-fast heroes like Barry Allen who need to eat constantly. I also enjoy **talking to intelligence**, much like Cyborg connecting with the world's data in *Zack Snyder's Justice League*. As Silas Stone once said, "I know the requirements, I wrote them."
 
 * **
 
