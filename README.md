@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate **Artificaial Intelligence Developer** with a knack for **building scalable web applications, crafting insightful data visualizations, and unravelling complex datasets**. My journey in tech is driven by a love for problem-solving and a desire to create impactful digital solutions. I thrive on turning innovative ideas into practical, efficient, and user-centric realities.
+I'm a passionate **Artificial Intelligence Developer** with a knack for **building scalable web applications, crafting insightful data visualizations, and unravelling complex datasets**. My journey in tech is driven by a love for problem-solving and a desire to create impactful digital solutions. I thrive on turning innovative ideas into practical, efficient, and user-centric realities.
 
 ### What I Do
 
