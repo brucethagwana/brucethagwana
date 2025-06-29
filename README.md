@@ -2,14 +2,14 @@
 
 ### About Me
 
-I'm a passionate **Artificial Intelligence Developer** passionate about tranforming innovative ideas into pratical, efficient, and user-centric digital solutions. With a strong foundation in **building scalable web applications, crafting insightful data visualizations, and unravelling complex datasets**, I thrive on problem-solving and creating impactful technological solutions.
+I'm a passionate **Artificial Intelligence Developer** who transforms innovative ideas into practical, efficient, and user-centric digital solutions. With a robust foundation in **scalable web applications, insightful data visualization, and complex dataset analysis**, I excel at problem-solving and creating impactful technological solutions that drive real-world value.
 
 ### What I Do
 
 My expertise spans several areas:
 
 - **Data Science & Machine Learning:** I design and implement **machine learning algorithms**, and **predictive models**, performing in-depth **data analysis** using **Python**, **Pandas**, **scikit-learn**, **TensorFlow**, and **PyTorch**.
-- **Sales Engineering:** I bridge the gap between technical solutions and business needs by leveraging **organizational strategy** and fostering **consensus-building** through **productive client dialogue**.
+- **Sales Engineering:** I bridge the gap between technical solutions and business needs by leveraging **organizational strategy** and fostering **consensus-building** through **productive client dialogue**, resulting in tailored solutions and accelerated adoption.
 - **Web Development:** I build robust and responsive web applications using technologies such as **React.js**, **Node.js**, **Next.js**, and **Djando**.
 - **Software Development & Technical Writing:** I'm keen on developing **native mobile apps (`iOS/Android`)** and sharing knowledge through clear technical documentation and engaging blog posts.
 - **Cloud & MLOps:** I'm proficient in deploying scalable solutions on **AWS**, **Azure**, and **GCP**, automating **CI/CD workflows**, and containerzation with **Docker**.
@@ -54,8 +54,9 @@ Here are some of the technologies and tools I frequently work with:
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Design & Prototyping:**
