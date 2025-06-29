@@ -2,15 +2,17 @@
 
 ### About Me
 
-I'm a passionate **Artificial Intelligence Developer** with a knack for **building scalable web applications, crafting insightful data visualizations, and unravelling complex datasets**. My journey in tech is driven by a love for problem-solving and a desire to create impactful digital solutions. I thrive on turning innovative ideas into practical, efficient, and user-centric realities.
+I'm a passionate **Artificial Intelligence Developer** passionate about tranforming innovative ideas into pratical, efficient, and user-centric digital solutions. With a strong foundation in **building scalable web applications, crafting insightful data visualizations, and unravelling complex datasets**, I thrive on problem-solving and creating impactful technological solutions.
 
 ### What I Do
 
-- **Data Science/Machine Learning:** My expertise includes **machine learning algorithms**, **predictive modeling** and **data analysis** with tools like **Python**, **Pandas**, **scikit-learn**, **TensorFlow**, and **PyTorch**.
-- **Sales Engineering:** I leverage **organizational strategy** to drive meaningful engagement with clients, fostering **consensus-building** through **productive dialogue and discussion** to align technical solutions with business needs.
-- **Web Development:** I build robust and responsive web applications using technologies like **React.js**, **Node.js**, **Next.js**, and **Djando**.
-- **Software Development/Technical Writing:** I'm keen on developing **native mobile apps (`iOS/Android`)**, and sharing knowledge through technical documentation and blog posts.
-- **Cloud & MLOps:** I'm also proficient in deploying scalable solutions on **AWS/Azure/GCP**, automating **CI/CD workflows**, and containerzation with **Docker**.
+My expertise spans several areas:
+
+- **Data Science & Machine Learning:** I design and implement **machine learning algorithms**, and **predictive models**, performing in-depth **data analysis** using **Python**, **Pandas**, **scikit-learn**, **TensorFlow**, and **PyTorch**.
+- **Sales Engineering:** I bridge the gap between technical solutions and business needs by leveraging **organizational strategy** and fostering **consensus-building** through **productive client dialogue**.
+- **Web Development:** I build robust and responsive web applications using technologies such as **React.js**, **Node.js**, **Next.js**, and **Djando**.
+- **Software Development & Technical Writing:** I'm keen on developing **native mobile apps (`iOS/Android`)** and sharing knowledge through clear technical documentation and engaging blog posts.
+- **Cloud & MLOps:** I'm proficient in deploying scalable solutions on **AWS**, **Azure**, and **GCP**, automating **CI/CD workflows**, and containerzation with **Docker**.
 
 ### My Toolkit
 
@@ -49,11 +51,15 @@ Here are some of the technologies and tools I frequently work with:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Design & Prototyping:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
 ### Featured Projects
@@ -73,7 +79,7 @@ Here are some of the technologies and tools I frequently work with:
   - [Truth Table](https://github.com/brucethagwana/truthtable)
 
 - **Flight Booking System**
-  - **Description:** A filght booking simulation, demonstrating a scalable and cost-efficient payment system.
+  - **Description:** A filght booking simulation demonstrating a scalable and cost-efficient payment system.
   - **Technologies:** `C++`
   - **Highlights:** Designed for high concurrency and low latency.
   - [Flight Booking System](https://github.com/brucethagwana/flightbookingsystem)
@@ -89,7 +95,6 @@ Here are some of the technologies and tools I frequently work with:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucethagwana&show_icons=true&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brucethagwana&layout=compact&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)
 
-
 ### 🌱 What I'm Learning & My Goals
 
 - Currently diving deeper into **Ethical AI** and its implications for responsible technology development.
@@ -100,7 +105,7 @@ Here are some of the technologies and tools I frequently work with:
   
 ### ⚡ Fun Fact
 
-When I'm not immersed in code, you can find me **binge-watching movies** or **intensely following sports**, especially those with incredible athletes or super-fast heroes like Barry Allen who need to eat constantly. I also enjoy **speaking to intelligence**, much like Cyborg connecting with the world's data in *Zack Snyder's Justice League*. As Silas Stone once said, "I know the requirements, I wrote them."
+When I'm not immersed in code, you can find me **binge-watching movies** or **intensely following sports**, especially those with incredible athletes or super-fast heroes like Barry Allen who need to eat constantly. I also enjoy **speaking to intelligence**, much like Cyborg connecting with the world's data in *Zack Snyder's Justice League*. As Silas Stone once said, "**I know the requirements, I wrote them**."
 
 * **
 
