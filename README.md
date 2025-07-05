@@ -76,7 +76,7 @@ Here are some of the technologies and tools I frequently work with:
 * **Truth Table**
   - **Description:** A machine learning model for predicting accuracy in the quality of being correct.
   - **Technologies:** `Python`, `Django`, `HTML5`, `GIT`, `TensorFlow`, `PyTorch`, `PostgreSQL`, `PGVector`, `Docker`, `CSS3` 
-  - **Highlights:** Provided actionable insights through algorithms and data visualization.
+  - **Highlights:** Provided actionable insights through data structures, algorithms, and data visualization.
   - [Truth Table](https://github.com/brucethagwana/truthtable)
 
 - **Flight Booking System**
