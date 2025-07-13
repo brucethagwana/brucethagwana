@@ -46,7 +46,7 @@ Here are some of the technologies and tools I frequently work with:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-458BCC?style=flat&logo=neo4j&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1d222b)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Tools & Platforms:**
