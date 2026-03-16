@@ -2,17 +2,17 @@
 
 ### About Me
 
-I'm a passionate **Artificial Intelligence Developer** who transforms innovative ideas into practical, efficient, and user-centric digital solutions. With a robust foundation in **scalable web applications, insightful data visualization, and complex dataset analysis**, I excel at problem-solving and creating impactful technological solutions that drive real-world value.
+I'm a **Software Engineer** with 8+ years of experience merging algorithmic rigour with enterprise-scale software delivery. I specialize in the architectural design of **Agentic AI**, moving beyond generative content to build autonomous, tool-integrated workflows that prioritize reasoning and execution. As a leader of high-scale software engineering portfolios, I focus on turning complex AI logic into predictable, production-ready systems built on a foundation of SOLID principles and robust architectural patterns.  
 
 ### What I Do
 
-My expertise spans several areas:
+My work is centered on the intersection of technical leadership and advanced AI engineering:
 
-- **Data Science & Machine Learning:** I design and implement **machine learning algorithms**, and **predictive models**, performing in-depth **data analysis** using **Python**, **Pandas**, **scikit-learn**, **TensorFlow**, and **PyTorch**.
-- **Sales Engineering:** I bridge the gap between technical solutions and business needs by leveraging **organizational strategy** and fostering **consensus-building** through **productive client dialogue**, resulting in tailored solutions and accelerated adoption.
-- **Web Development:** I build robust and responsive web applications using technologies such as **React.js**, **Node.js**, **Next.js**, and **Djando**.
-- **Software Development & Technical Writing:** I'm keen on developing **native mobile apps (`iOS/Android`)** and sharing knowledge through clear technical documentation and engaging blog posts.
-- **Cloud & MLOps:** I'm proficient in deploying scalable solutions on **AWS**, **Azure**, and **GCP**, automating **CI/CD workflows**, and containerzation with **Docker**.
+- **Agentic AI Engineering:** I architect autonomous reasoning workflows and **Agentic systems** utilizing **Python** and **PGVector**. My focus is on **LLM orchestration**, **RAG pipelines**, and **ReAct patterns** to build systems that execute multi-step tasks through tool-integration workflows.
+- **Technical Leadership & Portfolio Management:** I lead software engineering portfolios by managing the end-to-end **SDLC** and ensuring technical execution aligns with business objectives. This includes leading technical discovery sessions and drafting comprehensive enterprise proposals for complex platforms.
+- **Enterprise Architecture:** I specialize in high-scale systems design, utilizing **CQRS** and **Event Sourcing** patterns to solve complex data retrieval challenges. I leverage **Java Spring Boot**, **Node.js**, and various NoSQL databases like **MongoDB** and **Neo4j** to build resilient, production-ready backends.   
+- **Engineering Excellence & Mentorship:** I'm a strong advocate for technical rigour, enforcing **SOLID principles** and standardized **CI/CD pipelines** to ensure 100% deployment consistency. I actively mentor junior engineers, guiding their technical direction and professional growth. 
+- **Cloud & Ops:** I execute multi-cloud strategies, leveraging **AWS** for high-performance event-driven patterns and **GCP** for efficient identity management. I focus on automating these environments via **Terraform (IaC)** and managing container orchestration for AI services through **Docker** and **Kubernetes**. 
 
 ### My Toolkit
 
@@ -69,15 +69,15 @@ Here are some of the technologies and tools I frequently work with:
 
 ### Featured Projects
 
-🔭 Here are a few projects that showcase my skills and passion.
+🔭 These projects highlight my dual role in defining high-level architectural vision and managing the execution of complex engineering workstreams.
 
-- **Fiscal**
+- **Fiscal: Enterprise Financial Ecosystem**
   - **Description:** A dynamic platform designed to offer a seamless tax experience with secure payment processing.
   - **Technologies:** `Java`, `Spring Boot`, `Apache Maven`, `Git`, `Neo4j`, `MongoDB`, `GraphQL` 
   - **Highlights:** Implemented **CQRS** with **Event Sourcing** for secure transactions.
   - [Fiscal: Employee Compensation](https://github.com/brucethagwana/employeecompensation)
 
-* **Truth Table**
+* **Truth Table: AI-Driven Reasoning Platform**
   - **Description:** A machine learning model for predicting accuracy in the quality of being correct.
   - **Technologies:** `Python`, `Django`, `HTML5`, `Git`, `TensorFlow`, `PyTorch`, `PostgreSQL`, `PGVector`, `Docker`, `CSS3` 
   - **Highlights:** Provided actionable insights through data structures, algorithms, and data visualization.
