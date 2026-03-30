@@ -40,11 +40,15 @@ Here are some of the technologies and tools I frequently work with:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
+**Streaming, Caching & Middleware:**
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 **Machine Learning & AI:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Databases:**
+**Databases & Storage:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-458BCC?style=flat&logo=neo4j&logoColor=white)
