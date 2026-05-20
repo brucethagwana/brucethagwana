@@ -101,8 +101,9 @@ Here are some of the technologies and tools I frequently work with:
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucethagwana&show_icons=true&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brucethagwana&layout=compact&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)
+[![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=brucethagwana&show_icons=true&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)](https://github.com/brucethagwana)
+
+[![Your Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brucethagwana&layout=compact&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)](https://github.com/brucethagwana)
 
 ### 🌱 What I'm Learning & My Goals
 
