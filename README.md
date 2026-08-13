@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **Software Engineer** with 8+ years of experience merging algorithmic rigour with applied AI engineering at enterprise scale. I specialize in the architectural design of **Agentic AI**, moving beyond generative content to build autonomous, tool-integrated workflows that prioritize reasoning and execution. As a leader of high-scale software engineering portfolios, I focus on turning complex AI logic into predictable, production-ready systems built on a foundation of SOLID principles and robust architectural patterns.  
+I'm a **Software Engineer** merging algorithmic rigour with applied AI engineering at enterprise scale. I specialize in the architectural design of **Agentic AI**, moving beyond generative content to build autonomous, tool-integrated workflows that prioritize reasoning and execution. As a leader of high-scale software engineering portfolios, I focus on turning complex AI logic into predictable, production-ready systems built on a foundation of SOLID principles and robust architectural patterns.  
 
 ### What I Do
 
