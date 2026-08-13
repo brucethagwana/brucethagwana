@@ -18,6 +18,10 @@ My work is centered on the intersection of technical leadership and advanced AI 
 
 Here are some of the technologies and tools I frequently work with:
 
+**Machine Learning & AI:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -40,20 +44,16 @@ Here are some of the technologies and tools I frequently work with:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-**Streaming, Caching & Middleware:**
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Machine Learning & AI:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
 **Databases & Storage:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-458BCC?style=flat&logo=neo4j&logoColor=white)
 ![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1d222b)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Streaming, Caching & Middleware:**
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Tools & Platforms:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -76,21 +76,21 @@ Here are some of the technologies and tools I frequently work with:
 🔭 These projects highlight my dual role in defining high-level architectural vision and managing the execution of complex engineering workstreams.
 
 - **Fiscal: Enterprise Financial Ecosystem**
-  - **Description:** A dynamic platform designed to offer a seamless tax experience with secure payment processing.
+  - **Description:** An enterprise-grade financial event-processing platform engineered for high-throughput tax calculations and secure payment reconciliation.
   - **Technologies:** `Java`, `Spring Boot`, `Apache Maven`, `Git`, `Neo4j`, `MongoDB`, `GraphQL` 
-  - **Highlights:** Implemented **CQRS** with **Event Sourcing** for secure transactions.
+  - **Highlights:** Applied **CQRS** and **Event Sourcing** patterns to maintain strict data integrity and real-time auditability across high-volume transaction streams.
   - [Fiscal: Employee Compensation](https://github.com/brucethagwana/employeecompensation)
 
 * **Truth Table: AI-Driven Reasoning Platform**
-  - **Description:** A machine learning model for predicting accuracy in the quality of being correct.
-  - **Technologies:** `Python`, `Django`, `HTML5`, `Git`, `TensorFlow`, `PyTorch`, `PostgreSQL`, `PGVector`, `Docker`, `CSS3` 
-  - **Highlights:** Provided actionable insights through data structures, algorithms, and data visualization.
+  - **Description:** An evaluation and validation platform designed to benchmark AI reasoning outputs, logical consistency, and model veracity.
+  - **Technologies:** `Python`, `Django`, `TensorFlow`, `PyTorch`, `PostgreSQL`, `PGVector`, `Docker`
+  - **Highlights:** Leveraged vector embeddings via **PGVector** and modern ML frameworks to provide automated accuracy scoring and diagnostic visual analytics. 
   - [Truth Table](https://github.com/brucethagwana/truthtable)
 
 - **Flight Booking System**
-  - **Description:** A filght booking simulation demonstrating a scalable and cost-efficient payment system.
+  - **Description:** A high-concurrency, low-latency reservation engine built to demonstrate thread safety and memory-efficient transaction management.
   - **Technologies:** `C++`
-  - **Highlights:** Designed for high concurrency and low latency.
+  - **Highlights:** Implemented optimized data structures to minimize allocation overhead and maintain sub-millisecond execution times under concurrent load.
   - [Flight Booking System](https://github.com/brucethagwana/flightbookingsystem)
 
 ### 📫 How To Reach Me
@@ -105,11 +105,11 @@ Here are some of the technologies and tools I frequently work with:
 
 [![Your Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brucethagwana&layout=compact&bg_color=0f141a&gradient=1a365b,1a365b,9f40ff&hide_border=true&title_color=fff&text_color=ccc)](https://github.com/brucethagwana)
 
-### 🌱 What I'm Learning & My Goals
+### 🌱 What I'm Learning & Strategic Focus
 
-- Currently diving deeper into **Ethical AI** and its implications for responsible technology development.
-- Exploring **Agentic AI** and its potential to build autonomous, goal-driven systems for complex problem-solving.
-- My goal for the next year is to align with my interest in sustainable technology.
+- **Advanced Multi-Agent Frameworks:** Researching emergent multi-agent coordination models and memory architecture designs for continuous autonomous execution.
+- **Ethical & Trustworthy AI:** Deepening practices around guardrails, explainability, and bias mitigation in production-grade LLM deployments.
+- **Sustainable Computing:** Exploring energy-efficient model inference and sustainable cloud architectures.
 
 ### 😄 Pronouns: He/Him
   
