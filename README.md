@@ -18,9 +18,21 @@ My work is centered on the intersection of technical leadership and advanced AI 
 
 Here are some of the technologies and tools I frequently work with:
 
-**Machine Learning & AI:**
+**Agentic AI & LLM Orchestration:**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logo=python&logoColor=white)
+
+**Machine Learning & Inference:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**LLMOps & Observability:**
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +45,7 @@ Here are some of the technologies and tools I frequently work with:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries:**
+**Frameworks & Backend:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -44,32 +56,30 @@ Here are some of the technologies and tools I frequently work with:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-**Databases & Storage:**
+**Databases, Vector Storage & Middleware:**
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1d222b)
+![Pinecone](https://img.shields.io/badge/Pinecone-121212?style=flat&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FA0262?style=flat&logo=weaviate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-458BCC?style=flat&logo=neo4j&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1d222b)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-**Streaming, Caching & Middleware:**
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Tools & Platforms:**
+**Cloud, Ops & Tools:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-**Design & Prototyping:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 
 ### Featured Projects
 
