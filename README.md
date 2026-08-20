@@ -93,7 +93,7 @@ Here are some of the technologies and tools I frequently work with:
 
 * **Truth Table: AI-Driven Reasoning Platform**
   - **Description:** An evaluation and validation platform designed to benchmark AI reasoning outputs, logical consistency, and model veracity.
-  - **Technologies:** `Python`, `Django`, `TensorFlow`, `PyTorch`, `PostgreSQL`, `PGVector`, `Docker`
+  - **Technologies:** `Python`, `Django`, `PyTorch`, `TensorFlow`, `PostgreSQL`, `PGVector`, `Docker`
   - **Highlights:** Leveraged vector embeddings via **PGVector** and modern ML frameworks to provide automated accuracy scoring and diagnostic visual analytics. 
   - [Truth Table](https://github.com/brucethagwana/truthtable)
 
