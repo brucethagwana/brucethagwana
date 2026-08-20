@@ -99,7 +99,7 @@ Here are some of the technologies and tools I frequently work with:
 
 - **Flight Booking System**
   - **Description:** A high-concurrency, low-latency reservation engine built to demonstrate thread safety and memory-efficient transaction management.
-  - **Technologies:** `C++`
+  - **Technologies:** `C++`, `mingw-w64`
   - **Highlights:** Implemented optimized data structures to minimize allocation overhead and maintain sub-millisecond execution times under concurrent load.
   - [Flight Booking System](https://github.com/brucethagwana/flightbookingsystem)
 
