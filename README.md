@@ -87,7 +87,7 @@ Here are some of the technologies and tools I frequently work with:
 
 - **Fiscal: Enterprise Financial Ecosystem**
   - **Description:** An enterprise-grade financial event-processing platform engineered for high-throughput tax calculations and secure payment reconciliation.
-  - **Technologies:** `Java`, `Spring Boot`, `Apache Maven`, `Git`, `Neo4j`, `MongoDB`, `GraphQL` 
+  - **Technologies:** `Java`, `Spring Boot`, `Apache Maven`, `Neo4j`, `MongoDB`, `GraphQL`, `Git`
   - **Highlights:** Applied **CQRS** and **Event Sourcing** patterns to maintain strict data integrity and real-time auditability across high-volume transaction streams.
   - [Fiscal: Employee Compensation](https://github.com/brucethagwana/employeecompensation)
 
